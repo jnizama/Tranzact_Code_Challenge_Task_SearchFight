@@ -25,7 +25,8 @@ Some topics in the source code:
 * Use of async
 * Use of factory patter
 * SOLID principles
-* Repository pattern
+* Repository pattern design
+* Fabric pattern design
 * N-Tier
 * Easy to extent and maintainable code
 * Comments on the source.
