@@ -1,5 +1,9 @@
 # SearchFight
 
+****NOTE****
+If you have problems to execute this test code challenge, please update key for Microsoft Bing with a valida Azure account.
+
+
 This project uses 2 search engines to find the results, the format is the following:
 
  C:\> searchfight.exe c++ java
