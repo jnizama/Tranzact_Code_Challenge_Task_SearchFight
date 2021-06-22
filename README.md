@@ -1,7 +1,7 @@
 # SearchFight
 
 ****NOTE****
-If you have problems to execute this test code challenge, please update key for Microsoft Bing with a valida Azure account.
+If you have problems executing this test code challenge, please update the key for Microsoft Bing with a valid Azure account.
 
 
 This project uses 2 search engines to find the results, the format is the following:
